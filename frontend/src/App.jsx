@@ -1,9 +1,10 @@
+
 import React, { useState } from 'react';
 import axios from 'axios';
 import SearchBar from './components/SearchBar';
 import ResultsTable from './components/ResultsTable';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_URL = 'https://shl-assessment-recommendation-system-bz51.onrender.com';
 
 const App = () => {
     const [query, setQuery] = useState('');
