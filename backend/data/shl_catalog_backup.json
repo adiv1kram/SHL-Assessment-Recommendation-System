@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Java Programming Assessment",
+    "url": "https://www.shl.com/en/assessments/java-programming",
+    "description": "Comprehensive Java assessment testing object-oriented programming, data structures, algorithms, and problem-solving skills for software development roles",
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical"
+    ],
+    "duration": "45",
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Python Coding Test",
+    "url": "https://www.shl.com/en/assessments/python-coding",
+    "description": "Evaluates Python programming skills including algorithms, data manipulation, code optimization, and software engineering best practices",
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical"
+    ],
+    "duration": "40",
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "SQL Database Skills Assessment",
+    "url": "https://www.shl.com/en/assessments/sql-database",
+    "description": "Tests SQL query writing, database design, data analysis, and optimization capabilities for database administrators and analysts",
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical"
+    ],
+    "duration": "50",
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "JavaScript Developer Test",
+    "url": "https://www.shl.com/en/assessments/javascript",
+    "description": "Comprehensive JavaScript assessment covering ES6+, async programming, frameworks, and modern web development practices",
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical"
+    ],
+    "duration": "45",
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Data Science and Analytics",
+    "url": "https://www.shl.com/en/assessments/data-science",
+    "description": "Evaluates statistical analysis, machine learning concepts, data visualization, and analytical problem-solving for data scientists",
+    "test_type": [
+      "Knowledge & Skills",
+      "Analytical"
+    ],
+    "duration": "60",
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Collaboration and Teamwork Assessment",
+    "url": "https://www.shl.com/en/assessments/collaboration",
+    "description": "Measures ability to work effectively in teams, communicate clearly, build relationships, and contribute to group success",
+    "test_type": [
+      "Personality & Behavior",
+      "Soft Skills"
+    ],
+    "duration": "30",
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Leadership Potential Inventory",
+    "url": "https://www.shl.com/en/assessments/leadership",
+    "description": "Assesses leadership qualities, strategic thinking, decision-making, and ability to influence and motivate others",
+    "test_type": [
+      "Personality & Behavior",
+      "Leadership"
+    ],
+    "duration": "35",
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Communication Skills Assessment",
+    "url": "https://www.shl.com/en/assessments/communication",
+    "description": "Evaluates written and verbal communication effectiveness, presentation skills, and stakeholder engagement abilities",
+    "test_type": [
+      "Personality & Behavior",
+      "Soft Skills"
+    ],
+    "duration": "25",
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Problem Solving and Critical Thinking",
+    "url": "https://www.shl.com/en/assessments/problem-solving",
+    "description": "Tests analytical thinking, logical reasoning, creative problem-solving, and ability to make sound decisions",
+    "test_type": [
+      "Ability & Aptitude",
+      "Cognitive"
+    ],
+    "duration": "40",
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Emotional Intelligence Assessment",
+    "url": "https://www.shl.com/en/assessments/emotional-intelligence",
+    "description": "Measures self-awareness, empathy, emotional regulation, and ability to manage interpersonal relationships professionally",
+    "test_type": [
+      "Personality & Behavior",
+      "Soft Skills"
+    ],
+    "duration": "30",
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  }
+]

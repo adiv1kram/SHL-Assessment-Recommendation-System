@@ -1,0 +1,7 @@
+# Absolute bare minimum - latest versions with pre-built wheels
+# This avoids compilation issues with Python 3.13
+
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
