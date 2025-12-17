@@ -1,9 +1,9 @@
-
 import React, { useState } from 'react';
 import axios from 'axios';
 import SearchBar from './components/SearchBar';
 import ResultsTable from './components/ResultsTable';
 
+const API_URL = 'https://shl-assessment-recommendation-system-bz51.onrender.com';
 const API_URL = 'https://shl-assessment-recommendation-system-bz51.onrender.com';
 
 const App = () => {
